@@ -2,8 +2,8 @@
 
 jsSocials is a simple social network sharing jQuery plugin. 
 
-http://js-socials.com/
-https://github.com/tabalinas/jssocials
+  - http://js-socials.com/
+  - https://github.com/tabalinas/jssocials
 
 This gem was built for the ease use of jsSocials in Rails projects.
 
@@ -25,7 +25,7 @@ Or install it yourself as:
 
 ## Usage
 
-Add this line to your application's app/assets/javascripts/applciation.js:
+Add this line to your application's app/assets/javascripts/application.js:
 
 ```js
 //= require ...
