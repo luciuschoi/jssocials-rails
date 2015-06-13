@@ -63,10 +63,7 @@ $ ->
     showLabel: (screenWidth) ->
       screenWidth > 1280
     shares: [
-      {
-        share: 'email'
-        shareUrl: "mailto:<your-mail-address>?subject={text}&body={url}"
-      }
+      'email'
       'twitter'
       'facebook'
       'googleplus'
