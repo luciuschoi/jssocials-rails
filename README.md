@@ -7,6 +7,8 @@ jsSocials is a simple social network sharing jQuery plugin.
 
 This gem was built for the ease use of jsSocials in Rails projects.
 
+[![Gem Version](https://badge.fury.io/rb/jssocials-rails.svg)](http://badge.fury.io/rb/jssocials-rails)
+
 ## Installation
 
 Add this line to your application's Gemfile:
